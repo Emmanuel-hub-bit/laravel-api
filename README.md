@@ -65,7 +65,7 @@ bash# Navigate to your preferred directory
 cd ~
 
 # Clone the repository
-git clone https://github.com/yourusername/laravel-hello-world.git
+git clone https://github.com/Emmanuel-hub-bit/hello-laravel
 
 # Navigate into the project
 cd laravel-hello-world
